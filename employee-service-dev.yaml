@@ -1,9 +1,9 @@
 server:
-    port: 8082
+    port: 8081
 spring:
     datasource:
         password: password
-        url: jdbc:mysql://localhost:3306/employeesdatabase?useSSL=false
+        url: jdbc:mysql://localhost:3306/book_borrow_db?useSSL=false
         username: root
     jpa:
         hibernate:
