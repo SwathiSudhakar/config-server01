@@ -3,7 +3,7 @@ server:
 spring:
     datasource:
         password: password
-        url: jdbc:mysql://localhost:3306/deptdatabase?useSSL=false
+        url: jdbc:mysql://localhost:3306/book_db?useSSL=false
         username: root
     jpa:
         hibernate:
