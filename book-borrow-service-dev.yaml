@@ -14,9 +14,9 @@ spring:
                 
 # Test Details for Development Environment
 test:
-  details: Employee service details for development environment [From GitHub]
-  engineer: John Doe
-  department: Development Testing
-  engineerContact:
-    email: testengineer.dev@example.com
+  details: Book Borrow service details for development environment [From GitHub]
+  Place: Ireland
+  department: Development Testing [Book service]
+  placeContact:
+    name: Dublin
     phone: 123-456-7890                
